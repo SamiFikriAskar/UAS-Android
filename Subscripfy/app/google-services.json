@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870713208834",
+    "project_id": "subscripfy-3daed",
+    "storage_bucket": "subscripfy-3daed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870713208834:android:a44561ec7d9f52e810b71b",
+        "android_client_info": {
+          "package_name": "com.app.subscripfy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQJdg1pwDwJ591HQ98x4GKqr_Ugen1Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
